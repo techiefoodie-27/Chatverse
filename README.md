@@ -1,4 +1,5 @@
 ChatVerse
+
 "Where Every Conversation Begins."
 
 ChatVerse is a real-time social chat web application where users can create an account, find people, send friend requests and chat with their friends.
