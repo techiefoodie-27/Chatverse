@@ -20,6 +20,7 @@ ChatVerse is a real-time social chat web application where users can create an a
 - Secure authentication
 
 Tech Stack:
+
  Frontend
 - HTML
 - CSS
